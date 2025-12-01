@@ -15,7 +15,7 @@ Ce projet implémente un environnement GridWorld personnalisé avec Gymnasium et
 
 ##  Structure du Projet
 gridworld_rl/
-├── gridworld_env.py # Environnement GridWorld 5×5
-├── agent.py # Agent aléatoire (démonstration)
-├── value_iteration_run.py # Value Iteration + visualisation
+├── gridworld_env.py 
+├── agent.py 
+├── value_iteration_run.py 
 └── README.md
