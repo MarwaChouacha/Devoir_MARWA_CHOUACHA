@@ -8,8 +8,8 @@
 ![RL](https://img.shields.io/badge/Reinforcement%20Learning-Value%20Iteration-purple)
 
 ##  Résultat
-✅ **L'agent atteint le goal avec succès** en utilisant l'algorithme Value Iteration.
+ **L'agent atteint le goal avec succès** en utilisant l'algorithme Value Iteration.
 
-## 📋 Présentation
+##  Présentation
 Ce projet implémente un environnement GridWorld personnalisé avec Gymnasium et le résout efficacement grâce à l'algorithme **Value Iteration**. L'agent apprend la politique optimale pour naviguer du point de départ au goal tout en évitant les obstacles.
 
