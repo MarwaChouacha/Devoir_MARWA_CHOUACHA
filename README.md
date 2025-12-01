@@ -13,3 +13,9 @@
 ##  Présentation
 Ce projet implémente un environnement GridWorld personnalisé avec Gymnasium et le résout efficacement grâce à l'algorithme **Value Iteration**. L'agent apprend la politique optimale pour naviguer du point de départ au goal tout en évitant les obstacles.
 
+##  Structure du Projet
+gridworld_rl/
+├── gridworld_env.py # Environnement GridWorld 5×5
+├── agent.py # Agent aléatoire (démonstration)
+├── value_iteration_run.py # Value Iteration + visualisation
+└── README.md
